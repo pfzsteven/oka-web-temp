@@ -1,0 +1,6 @@
+{
+  "name": "OKA",
+  "description": "OKA Smart Home Official Website. Explore premium smart plugs, thermostats, locks, and indoor cameras with Amazon-matching pricing and dynamic shopping cart details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
